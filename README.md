@@ -1,19 +1,36 @@
-👋 Hi, I'm Priyanka Das!
-Welcome to my GitHub profile! I'm a versatile professional with a background in Electrical & Electronics Engineering and a strong passion for technology, strategy, and sustainable solutions. 🌱
-🌟 About Me
-    🔧 Ex-Manager of Technical Training at IFB Industries Ltd., where I led service teams, optimized product lifecycles, and drove revenue growth.
-    🎓 Education: B.Tech in Electrical & Electronics Engineering.
-    🧩 Experienced in product management, service & sales, and technical training, with over 3 years in the field.
-    🚀 Currently exploring data analytics, strategy consulting, data engineering, quality analysis, business analytics.
-🛠️ Technical Skills
-        Programming: Python, C#, MATLAB, SQL, Node.js.
-        Data Tools: Power BI, Excel, Grafana, PostgreSQL.
-        Industrial Automation: PLC Programming (Siemens, Rockwell, Mitsubishi), SCADA Siemens WinCC, Raspberry Pi.
-        CRM & ERP: SAP-CRM, SAP-MM.
-🌍 Languages
-        English, Hindi, Bengali, and basic German.
-🎯 Interests
-        Renewable Energy: Seeking impactful opportunities in the solar energy sector or other sustainable technologies.
-        Tech Strategy: Enthusiastic about roles in strategy consulting or corporate strategy, especially in the tech industry.
-        Data Analytics: Passionate about uncovering insights through data-driven approaches.
-Feel free to fork, star, or collaborate on my repositories! 😊
+# 👋 Hi, I'm Priyanka Das
+
+A data-driven professional with 8+ years of experience in technical training, product support, and operations. I'm passionate about solving business problems using data, automation, and strategy.
+
+---
+
+### 💼 Current Focus
+- Project Manager at IMPCA Services Pvt Ltd  
+- Exploring roles in data analytics, strategy, and sustainability
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL, MATLAB, C#  
+**Tools:** Power BI, Azure, PostgreSQL, Excel  
+**ERP/CRM:** SAP CRM, SAP MM  
+**Automation:** PLC (Siemens, Rockwell, Mitsubishi), SCADA
+
+---
+
+### 📊 Projects
+- Customer churn prediction using Random Forest & Power BI  
+- AI-powered lead scoring with HubSpot API & XGBoost  
+- Cloud BI dashboards using Azure Synapse & SQL
+
+---
+
+### 🌱 Interests
+- Data analytics & visualization  
+- Renewable energy & sustainable tech  
+- Strategy & process optimization
+
+---
+
+📫 [priyanka.das12693@gmail.com](mailto:priyanka.das12693@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-das-b127bb102)
